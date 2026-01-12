@@ -1,5 +1,5 @@
 **🌎 Available Languages:**  
-🇺🇸 English (current) | [🇧🇷 Português](README-PT.md)
+🇺🇸 English (current) | [🇧🇷 Português](README-pt-br.md)
 
 # Hi there! 
 
