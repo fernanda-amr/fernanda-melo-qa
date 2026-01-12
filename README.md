@@ -1,3 +1,6 @@
+**🌎 Available Languages:**  
+🇺🇸 English (current) | [🇧🇷 Português](README-PT.md)
+
 # Hi there! 
 
 I'm **Fernanda**, a **QA Engineer** focused on building reliable and effective testing solutions through both manual and automated testing.
