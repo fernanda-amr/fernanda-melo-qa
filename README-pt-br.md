@@ -1,4 +1,8 @@
-# Oi! 
+**🌎 Idiomas disponíveis:**  
+[🇺🇸 English](README.md) | 🇧🇷 Português (atual)
+
+
+# Olá! 
 
 Sou **Fernanda**, **QA Engineer**, focada em construir soluções de testes confiáveis e eficientes por meio de testes manuais e automatizados.
 
